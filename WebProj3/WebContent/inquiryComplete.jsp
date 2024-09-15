@@ -27,6 +27,5 @@
 	<br>お問い合わせ内容：
 	<br>
 	<s:property value="body" />
-
 </body>
 </html>
