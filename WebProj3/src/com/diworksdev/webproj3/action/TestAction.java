@@ -1,6 +1,6 @@
 package com.diworksdev.webproj3.action;
 
-import com.diworksdev.webproj2.dao.TestDAO;
+import com.diworksdev.webproj3.dao.TestDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class TestAction extends ActionSupport{

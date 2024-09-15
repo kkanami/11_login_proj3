@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import com.diworksdev.webproj2.util.DBConnector;
+import com.diworksdev.webproj3.util.DBConnector;
 
 public class TestDAO {
 public int insert(String username,String password){
